@@ -193,7 +193,7 @@ const Home: NextPage = () => {
   return (
     <Box w="100vw" h="100vh">
       <Head>
-        <title>Shuggzy's Flashcards</title>
+        <title>Shuggzy&apos;s Flashcards</title>
         <meta
           name="description"
           content="Something to help me learn spanish."
