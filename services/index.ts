@@ -1,0 +1,1 @@
+export { getAudioFromText } from "./textToSpeech";
