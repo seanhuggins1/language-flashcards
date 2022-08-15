@@ -205,7 +205,7 @@ const Home: NextPage = () => {
           <FlashCards />
         </VStack>
         <Text p={12} color="gray.500" textAlign="center">
-          Hi friends 👋 thanks for visiting! I got the words from
+          Hi friends 👋 thanks for visiting! I made this website to help me learn Spanish. I got the words from
           {` `}
           <Link href="https://top1000mostcommonwords.com/top-1000-most-common-words-in-spanish/">
             <a>
